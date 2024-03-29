@@ -1,0 +1,6 @@
+cojob_server
+
+1. Run 'npm install'
+2. Run 'npm start'
+
+Server should be running on port 3000
